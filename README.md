@@ -77,7 +77,7 @@ Proyecto desarrollado para la asignatura de **Control Digital**.
 
 * **Mateo Francisco Chimbo Quezada** - mateo.chimbo@ucuenca.edu.ec
 * **Angel Ramiro Apolo Aguilar** - angel.apolo@ucuenca.edu.ec
-* **Stalyn Ochoa** - stalyn.ochoa@ucuenca.edu.ec
+* **Stalyn Antonio Ochoa Yanez** - stalyn.ochoa@ucuenca.edu.ec
 
 ---
 *Universidad de Cuenca - Facultad de Ingeniería*
