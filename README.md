@@ -22,17 +22,6 @@ El objetivo es estabilizar un brazo basculante propulsado por un motor *brushles
     * 🤖 **Auto:** Lazo cerrado de posición.
 * **Soporte HID:** Control manual mediante mando de videojuegos (Xbox/PS4) vía USB.
 
-## 📂 Estructura del Repositorio
-
-├── firmware/
-│   ├── PIDInicial/
-│   │   └── PIDInicial.ino     # V1: PID con Gain Scheduling y Velocidad
-│   └── PIDClegg/
-│       └── PIDClegg.ino       # V2: PID con Smart Clegg y Zona Segura (Nuevo)
-├── hmi/
-│   └── HMIPID.py              # Dashboard en Python (Compatible con ambos firmwares)
-└── README.md                  # Documentación del proyecto
-
 ## 🛠️ Requisitos de Hardware
 
 * **Microcontrolador:** ESP32 DevKit V1.
